@@ -1,0 +1,20 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\..\\..\\1st Test"
+	},
+	{
+		"path": "..\\..\\05-Guess-My-Number\\starter"
+	},
+	{
+		"path": ".."
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\1st Test\\Test solution\\Test solutio"
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.multiRootWorkspaceName": "1st Test"
+  }
+}
